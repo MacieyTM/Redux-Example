@@ -1,4 +1,5 @@
 # Aplikacja z popularnym 'koszykiem zamówień', w którym znajdują się dodane do koszyka przedmioty z wykorzystaniem Reacta:
+
 ## Wykorzystano funkcjonalność Redux.
 
 Jeżeli masz zainstalowanego node.js, to możesz otworzyć projekt w trybie edycji. Oto instrukcja:
