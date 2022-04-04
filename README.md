@@ -14,3 +14,5 @@ npx create-react-app my-app
 npm start
 ```
 https://macieytm.github.io/Redux-Example
+
+![image](https://user-images.githubusercontent.com/95743795/161573310-a16056eb-dea7-417b-97c0-e2d73abc8dff.png)
